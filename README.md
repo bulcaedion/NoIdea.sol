@@ -1,2 +1,1 @@
-# contract
-No Idea Smart Contract
+# NoIdea.sol Contract
